@@ -1,0 +1,21 @@
+id,name,category,brand,price,popularity,description
+1,Running Shoes,Shoes,Nike,120,0.85,Lightweight shoes for outdoor running.
+2,Trail Shoes,Shoes,Salomon,140,0.78,Durable shoes for rough terrain.
+3,Sneakers,Shoes,Adidas,100,0.80,Casual sneakers for everyday use.
+4,Hiking Boots,Shoes,Merrell,150,0.72,Boots for long hikes with ankle support.
+5,Running Shorts,Apparel,Nike,40,0.65,Breathable shorts for running and training.
+6,Smartwatch,Electronics,Garmin,250,0.90,Track your workouts and heart rate.
+7,Laptop Backpack,Accessories,Targus,80,0.75,Durable backpack with laptop compartment.
+8,Water Bottle,Accessories,Nalgene,15,0.70,BPA-free reusable bottle.
+9,Winter Jacket,Apparel,North Face,200,0.88,Insulated jacket for cold weather.
+10,Yoga Mat,Sports,Liforme,60,0.68,Eco-friendly non-slip mat for yoga.
+11,Headphones,Electronics,Sony,150,0.85,Noise-cancelling over-ear headphones.
+12,Graphic T-Shirt,Apparel,Adidas,35,0.60,Cotton t-shirt with printed graphics.
+13,Smartphone,Electronics,Apple,1000,0.95,Latest iPhone with advanced camera.
+14,Trail Running Socks,Apparel,Salomon,20,0.65,Comfortable socks for long runs.
+15,Tablet,Electronics,Samsung,400,0.80,High-resolution tablet for work and play.
+16,Hiking Backpack,Accessories,Deuter,120,0.77,Lightweight backpack for hiking trips.
+17,Sunglasses,Accessories,Ray-Ban,120,0.70,UV-protection sunglasses for outdoor activities.
+18,Running Cap,Apparel,Nike,25,0.68,Lightweight cap for running and training.
+19,Wireless Mouse,Electronics,Logitech,50,0.82,Ergonomic mouse for everyday use.
+20,Coffee Maker,Home,Keurig,90,0.75,Single-serve coffee machine with pods.
